@@ -14,18 +14,42 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    /*
-     111
-     222
-     333
-     444
-     555
-     6666
-     777
-     999
-     888
-     */
+    
 
+    
+    /*
+     aaa
+     vvv
+     444
+     666
+     ff
+     333
+     444f
+     */
+    
+    /*
+     aaa
+     vvv
+     rrr
+     444
+     fff
+     */
+    
+    /*
+     aaa
+     vvv
+     rrr
+     ddd
+     fff
+     */
+    
+    /*
+     333
+     vvv
+     rrr
+     ddd
+     fff
+     */
 
 }
 
